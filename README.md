@@ -32,3 +32,13 @@ Meu foco está no ecossistema Java, explorando a linguagem, frameworks, APIs, ba
 
 ```text
 Java → Backend → APIs → Spring → Databases → Docker
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven" alt="Java Stack">
+</p>
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,graphql" alt="Backend Technologies">
+</p>
