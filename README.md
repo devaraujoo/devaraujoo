@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**devaraujoo/devaraujoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Anderson Araujo
 
-Here are some ideas to get you started:
+### `Java Developer`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+%7C+Spring+%7C+APIs;Building%2C+learning+and+evolving+with+Java" alt="Typing Animation" />
+
+<br>
+
+<a href="https://github.com/devaraujoo">
+  <img src="https://img.shields.io/badge/GitHub-devaraujoo-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/araujoo.dp">
+  <img src="https://img.shields.io/badge/LinkedIn-araujoo.dp-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<a href="https://instagram.com/araujoo.dp">
+  <img src="https://img.shields.io/badge/Instagram-@araujoo.dp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+</div>
+
+---
+
+## ☕ Sobre mim
+
+Sou **Anderson Araujo**, desenvolvedor com foco em **Java** e no desenvolvimento de aplicações backend.
+
+Meu foco está no ecossistema Java, explorando a linguagem, frameworks, APIs, bancos de dados, testes, containers e ferramentas utilizadas no desenvolvimento de aplicações modernas.
+
+```text
+Java → Backend → APIs → Spring → Databases → Docker
