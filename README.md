@@ -248,11 +248,11 @@ Este espaço será atualizado conforme novos projetos forem publicados.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devaraujoo&bg_color=0D1117&color=FFFFFF&line=ED8B00&point=FFFFFF&area=true&hide_border=true" width="90%" alt="GitHub Activity Graph">
+<img src="https://raw.githubusercontent.com/devaraujoo/devaraujoo/main/.github/assets/activity-graph.svg" width="90%" alt="GitHub Activity Graph">
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devaraujoo&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="90%" alt="GitHub Trophies">
+<img src="https://raw.githubusercontent.com/devaraujoo/devaraujoo/main/.github/assets/trophy.svg" width="90%" alt="GitHub Trophies">
 
 </div>
 
