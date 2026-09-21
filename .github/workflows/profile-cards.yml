@@ -1,0 +1,41 @@
+name: Update Profile Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: "bg_color=0D1117&color=FFFFFF&line=ED8B00&point=ED8B00&area_color=ED8B00&area=true&hide_border=true&custom_title=GitHub%20Activity&days=35"
+          output_path: .github/assets/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=${{ github.repository_owner }}&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7"
+          path: .github/assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets/activity-graph.svg .github/assets/trophy.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update profile activity graph and trophies"
+          git push
