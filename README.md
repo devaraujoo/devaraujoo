@@ -1,224 +1,299 @@
 <div align="center">
 
-👋 Anderson Araujo
-
-Java Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+%7C+Spring+%7C+APIs;Building%2C+learning+and+evolving+with+Java" alt="Typing Animation">
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:ED8B00&height=220&section=header&text=Anderson%20Araujo&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20%7C%20Spring%20%7C%20APIs&descAlignY=57&descSize=17&animation=fadeIn" width="100%" alt="Anderson Araujo">
 
 <a href="https://github.com/devaraujoo">
-<img src="https://img.shields.io/badge/GitHub-devaraujoo-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-devaraujoo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/araujoo.dp">
-<img src="https://img.shields.io/badge/LinkedIn-araujoo.dp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-araujoo.dp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://instagram.com/araujoo.dp">
+  <img src="https://img.shields.io/badge/Instagram-@araujoo.dp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-<a href="https://instagram.com/araujoo.dp">
-<img src="https://img.shields.io/badge/Instagram-@araujoo.dp-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Backend">
+<img src="https://img.shields.io/badge/Spring-APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring APIs">
+<img src="https://img.shields.io/badge/Docker-Infrastructure-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
 </div>
 
-☕ Sobre mim
-
-Sou Anderson Araujo, desenvolvedor com foco em Java e no desenvolvimento de aplicações backend.
-
-Meu foco está no ecossistema Java, explorando a linguagem, frameworks, APIs, bancos de dados, testes, containers e ferramentas utilizadas no desenvolvimento de aplicações modernas.
-
-Java → Backend → APIs → Spring → Databases → Docker
-
-Código limpo, aprendizado constante e evolução contínua.
-
-⚙️ Tecnologias & Ferramentas
-
-☕ Java & JVM
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven" alt="Java Stack">
-</p>
-
-🚀 Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,graphql" alt="Backend Technologies">
-</p>
-
-🗄️ Bancos de dados
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases">
-</p>
-
-🌐 Web & APIs
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,postman" alt="Web and API Technologies">
-</p>
-
-🐳 DevOps & Infraestrutura
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux" alt="DevOps Technologies">
-</p>
-
-🛠️ Ferramentas
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=idea,vscode,bash" alt="Development Tools">
-</p>
-
-🧩 Java Stack
-
-                         JAVA
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-          BACKEND                      TOOLS
-             │                           │
-        Spring Boot                  Maven / Gradle
-        Spring MVC                  IntelliJ IDEA
-        Spring Data                 Git / GitHub
-        Spring Security             Docker
-        Hibernate                   GitHub Actions
-             │
-       ┌─────┴─────┐
-       │           │
-   DATABASE       APIs
-       │           │
- PostgreSQL      REST
-   MySQL         JSON
- MongoDB         HTTP
-   Redis         Postman
-
-🚀 Projetos
+<hr>
 
 <div align="center">
 
-<table>
+👨‍💻 Sobre mim
+
+</div>
+
+<div align="center">
+
+Sou <strong>Anderson Araujo</strong>, desenvolvedor com foco em <strong>Java</strong> e desenvolvimento de aplicações <strong>backend</strong>.
+
+Meu foco está no ecossistema Java, estudando e desenvolvendo conhecimentos em APIs, Spring, bancos de dados, testes, containers e ferramentas utilizadas em aplicações modernas.
+
+<br>
+
+<table align="center">
 <tr>
+<td align="center">
 
-<td width="50%" valign="top">
+<strong>Java</strong> → <strong>Backend</strong> → <strong>APIs</strong> → <strong>Spring</strong> → <strong>Databases</strong> → <strong>Docker</strong>
 
-🔧 Projetos em breve
-
-Repositórios e projetos desenvolvidos com foco no ecossistema Java.
+</td>
+</tr>
+</table>
 
 <br>
 
-<a href="https://github.com/devaraujoo?tab=repositories">
-<img src="https://img.shields.io/badge/Ver%20repositórios-ED8B00?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<em>Código limpo, aprendizado constante e evolução contínua.</em>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+⚙️ Tecnologias & Ferramentas
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+☕ Java & JVM
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven" alt="Java JVM">
 
 </td>
+<td align="center" width="33%">
 
-<td width="50%" valign="top">
+🚀 Backend
 
-📚 Em desenvolvimento
-
-Este espaço será atualizado conforme novos projetos forem publicados.
-
-<br>
-
-<a href="https://github.com/devaraujoo">
-<img src="https://img.shields.io/badge/Meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,graphql" alt="Backend">
 
 </td>
+<td align="center" width="33%">
 
+🗄️ Bancos de dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🌐 Web & APIs
+
+<img src="https://skillicons.dev/icons?i=html,css,js,postman" alt="Web APIs">
+
+</td>
+<td align="center">
+
+🐳 DevOps & Infraestrutura
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux" alt="DevOps">
+
+</td>
+<td align="center">
+
+🛠️ Ferramentas
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,bash" alt="Tools">
+
+</td>
 </tr>
 </table>
 
 </div>
 
-📊 GitHub Stats
+<hr>
 
 <div align="center">
 
-<a href="https://github.com/devaraujoo">
+🧩 Java Stack
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaraujoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00&text_color=FFFFFF" alt="GitHub Stats">
+<table align="center">
+<tr>
+<td align="center" colspan="4">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaraujoo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=ED8B00&text_color=FFFFFF" alt="Top Languages">
+<strong>JAVA</strong>
 
-</a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%">
 
-</div>
-
-🔥 GitHub Streak
-
-<div align="center">
-
-<a href="https://github.com/devaraujoo">
-
-<img src="https://streak-stats.demolab.com?user=devaraujoo&theme=dark&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00" alt="GitHub Streak">
-
-</a>
-
-</div>
-
-📈 Activity
-
-<div align="center">
-
-<a href="https://github.com/devaraujoo">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devaraujoo&bg_color=0D1117&color=FFFFFF&line=ED8B00&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
-
-</a>
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/devaraujoo">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devaraujoo&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies">
-
-</a>
-
-</div>
-
-🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devaraujoo/devaraujoo/output/github-contribution-grid-snake.svg" alt="Snake Contribution">
-
-</div>
-
-🌐 Conecte-se comigo
-
-<div align="center">
-
-<a href="https://github.com/devaraujoo">
-<img src="https://img.shields.io/badge/GitHub-devaraujoo-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/araujoo.dp">
-<img src="https://img.shields.io/badge/LinkedIn-araujoo.dp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://instagram.com/araujoo.dp">
-<img src="https://img.shields.io/badge/Instagram-@araujoo.dp-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>
-
-<div align="center">
-
-☕ Java • Backend • Code • Evolution
-
-<br>
-
-<img src="https://img.shields.io/badge/Powered%20by-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<strong>BACKEND</strong>
 
 <br><br>
 
+Spring Boot<br>
+Spring MVC<br>
+Spring Data<br>
+Spring Security<br>
+Hibernate
+
+</td>
+<td align="center" valign="top" width="25%">
+
+<strong>DATABASE</strong>
+
+<br><br>
+
+PostgreSQL<br>
+MySQL<br>
+MongoDB<br>
+Redis
+
+</td>
+<td align="center" valign="top" width="25%">
+
+<strong>APIs</strong>
+
+<br><br>
+
+REST<br>
+JSON<br>
+HTTP<br>
+Postman
+
+</td>
+<td align="center" valign="top" width="25%">
+
+<strong>TOOLS</strong>
+
+<br><br>
+
+Maven / Gradle<br>
+IntelliJ IDEA<br>
+Git / GitHub<br>
+Docker<br>
+GitHub Actions
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+🚀 Projetos
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+🔧 Projetos em breve
+
+Repositórios e projetos desenvolvidos com foco no ecossistema Java.
+
+<br><br>
+
+<a href="https://github.com/devaraujoo?tab=repositories">
+<img src="https://img.shields.io/badge/Ver%20repositórios-ED8B00?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios">
+</a>
+
+</td>
+<td align="center" width="50%">
+
+📚 Em desenvolvimento
+
+Este espaço será atualizado conforme novos projetos forem publicados.
+
+<br><br>
+
+<a href="https://github.com/devaraujoo">
+<img src="https://img.shields.io/badge/Meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub">
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+📊 GitHub
+
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=devaraujoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00&text_color=FFFFFF" height="180" alt="GitHub Stats">
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaraujoo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=ED8B00&text_color=FFFFFF" height="180" alt="Top Languages">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=devaraujoo&theme=dark&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00" alt="GitHub Streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devaraujoo&bg_color=0D1117&color=FFFFFF&line=ED8B00&point=FFFFFF&area=true&hide_border=true" width="90%" alt="GitHub Activity Graph">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devaraujoo&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="90%" alt="GitHub Trophies">
+
+</div>
+
+<hr>
+
+<div align="center">
+
+🐍 Contribution Snake
+
+<br>
+
+<img src="https://raw.githubusercontent.com/devaraujoo/devaraujoo/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake">
+
+</div>
+
+<hr>
+
+<div align="center">
+
+🌐 Conecte-se comigo
+
+<a href="https://github.com/devaraujoo">
+<img src="https://img.shields.io/badge/GitHub-devaraujoo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/araujoo.dp">
+<img src="https://img.shields.io/badge/LinkedIn-araujoo.dp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://instagram.com/araujoo.dp">
+<img src="https://img.shields.io/badge/Instagram-@araujoo.dp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Powered%20by-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Powered by Java">
+
+<br><br>
+
+<sub>☕ Java • Backend • Code • Evolution</sub>
+<br>
 <sub>Construindo conhecimento, uma linha de código por vez.</sub>
 
 </div>
